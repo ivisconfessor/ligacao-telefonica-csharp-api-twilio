@@ -17,10 +17,10 @@
 
 <div align="center">
 
-## Link do EP5 no YouTube
+## Link do EP6 no YouTube
 
 <p>
-    <strong>Aprenda a Enviar E-mails com C# via SMTP - EP6 C# Na Prática</strong> | <a href="https://www.youtube.com/watch?v=MYPMNnXlc7A">Clique aqui para assistir!</a>
+    <strong>Como Fazer Ligações Telefônicas com C# - EP6 C# Na Prática</strong> | <a href="https://www.youtube.com/watch?v=MYPMNnXlc7A">Clique aqui para assistir!</a>
     <br />
     <br />
     <img 
